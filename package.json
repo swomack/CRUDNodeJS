@@ -1,0 +1,27 @@
+{
+  "name": "crudnodejs",
+  "version": "1.0.0",
+  "description": "A simple CRUD todo list using nodejs and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swomack/CRUDNodeJS.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "React",
+    "CRUD"
+  ],
+  "author": "Rasheduzzaman Sourov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swomack/CRUDNodeJS/issues"
+  },
+  "homepage": "https://github.com/swomack/CRUDNodeJS#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
